@@ -96,3 +96,4 @@ after_success:
 branches:
   only:
     - master
+    - api_version_support_for_OffsetFetchRequest_tests_fix
